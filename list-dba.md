@@ -203,6 +203,7 @@ The following projects are either sharding components or sub-components that be 
 | [Prometheus MySQL Exporter](https://github.com/prometheus/mysqld_exporter)  | YES                           | [Apache 2](https://github.com/prometheus/mysqld_exporter/blob/main/LICENSE)   | 
 | [Releem](https://releem.com/)                                       | YES                                                         | Proprietary in-premise or cloud                                                      |         |
 | [SolarWinds](https://www.solarwinds.com/)                           | YES                                                         | Proprietary in-premise or cloud                             |         |
+| [SolidPing](https://github.com/fclairamb/solidping) | YES | [AGPL3](https://github.com/fclairamb/solidping/blob/main/LICENSE) or cloud | |
 | [Splunk](https://www.splunk.com/)                                   | YES                                                         | Proprietary in-premise or cloud                             |         |
 | [SSM](https://shatteredsilicon.net/mysql-monitoring-ssm/)           | YES                                                         | ?                                                | [3]     |
 | [StatsD](https://github.com/statsd/statsd)                          | YES                                                         | [MIT](https://github.com/statsd/statsd/blob/master/LICENSE)   | [5]
